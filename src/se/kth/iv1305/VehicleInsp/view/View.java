@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package se.kth.iv1305.startup;
+package se.kth.iv1305.VehicleInsp.view;
 
 /**
  *
  * @author ZeenatAli
  */
-public class Main {
+public class View {
     
 }
